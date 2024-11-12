@@ -17,7 +17,7 @@ Plinko is a simple, interactive game built using p5.js and p5.play. The game use
 
 ## How to Run
 
-- [Run Game in Browser](kingqwerty6259.itch.io/Plinko)
+- [Run in browser](https://kingqwerty6259.github.io/Plinko/)
 ## Files
 
 - `index.html`: The main HTML file.
